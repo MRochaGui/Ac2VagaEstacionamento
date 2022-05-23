@@ -5,6 +5,7 @@ VagaDeEstacionamentoEspecial
 Criei um algoritmo que pede pra pessoa digitar a opção fisica que ela se encontra, e se a própria poderá usar as vagas de estacionamento especial.
 
 Ínicio.
+
 Pergunta se a pessoa é idosa 1 , gestante 2 , deficiente 3 ou nenhuma das opções 4.
 
 Caso pessoa esteja no grupo de 1 á 3.
